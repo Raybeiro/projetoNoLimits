@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #a83c3c;
+    padding: 1em;
+    height: 4.3rem;
+    
+
+  }
+
+  h1 {
+    width: 1920px;
+    height: 73px;
+    top: 0.5px;
+    left: 2px;
+    background-color: #FFFFFF;
+  }
+
+
+  h2 {
+    width: 422px;
+    height: 61px;
+    top: 31.5px;
+    font-family: "Be Vietnam Pro";
+    /* TODO: Importar fonte Be Vietnam Pro */
+    font-size: 40px;
+    color: #0000;
+    text-align: center;
+  }
+
+  .listas-horizontal {
+    display: inline-block;
+    width: 30%;
+    /* Ajuste a largura conforme necessário */
+    vertical-align: top;
+    margin: 0 10px;
+    /* Espaço entre as listas */
+  }
+
+  .meu-fundo {
+    background-color: #2b3035;
+    padding: 20px;
+  }
+
+  .meu-novofundo {
+    background-color: #B0B0B0;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+  }
+.imagem_container{
+  width: 100%;
+}
+.containter {
+  width: 200%;
+}
